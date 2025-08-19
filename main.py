@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# main.py - 主程序文件
 # complete multimodal search engine pipeline orchestrator
 
 import argparse
