@@ -1,0 +1,17 @@
+requests
+pandas
+numpy
+python-dotenv
+newspaper3k
+openai
+scikit-learn
+seaborn
+matplotlib
+xgboost
+psutil
+scipy
+transformers
+
+charset-normalizer
+annotated-types
+anyio

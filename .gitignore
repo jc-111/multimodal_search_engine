@@ -1,0 +1,19 @@
+# IDE / venv / caches
+.idea/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vscode/
+search_env/
+
+# data / logs / artifacts
+data/
+*.log
+
+# secrets
+.env
+config.json
+*.pem
+*.key
+*.crt
